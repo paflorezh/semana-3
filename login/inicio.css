@@ -1,0 +1,61 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	
+}
+/*encabezzado*/
+
+body{
+	background: black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.linea1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+	height:400px;
+}
+.linea2{
+	display: flex;
+	justify-content: center;
+	align-items:  center;
+
+
+}
+button{
+	width: 150px;
+	height: 60px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	outline: none;
+	border: none;
+	margin-left: -5px;
+	margin-top: -5px;
+	cursor: pointer;
+	  box-shadow: 0 0 6px 0 rgba(0,0,0,.5);
+}
+.boton{
+	width: 150px;
+	height: 60px;
+	margin-left: 10px;
+	background: #000;
+}
+
+.r{
+	background: 	#FF0000;
+
+
+}
+.i{
+	background: #069CCC ;
+}
+.logo{
+	margin-top: 80px;
+	width: 400px;
+	height:200px;
+}
